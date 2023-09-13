@@ -1,2 +1,2 @@
 # awt
-awt-assignment-1
+awt-ce1-assignment-1
